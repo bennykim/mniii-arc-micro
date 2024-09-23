@@ -1,0 +1,21 @@
+{
+  "files": [],
+  "compilerOptions": {
+    "paths": {
+      "app1": [
+        "../app1/src/main.tsx"
+      ],
+      "app2": [
+        "../app2/src/main.tsx"
+      ]
+    }
+  },
+  "references": [
+    {
+      "path": "./tsconfig.app.json"
+    },
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ]
+}
