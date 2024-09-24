@@ -17,7 +17,6 @@ function App() {
 
   return (
     <div>
-      <h1>Micro Frontend Container</h1>
       <div ref={app1Ref}></div>
       <div ref={app2Ref}></div>
     </div>

@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "pnpm -r run dev",
-    "build": "pnpm -r run build"
+    "start": "pnpm --filter container dev",
+    "build": "pnpm --filter app1 build && pnpm --filter app2 build && pnpm --filter container build"
   },
   "keywords": [],
   "author": "",
