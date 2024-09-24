@@ -1,1 +1,1 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts"],"version":"5.6.2"}
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/wave/index.tsx","./src/wave/point.ts","./src/wave/wave.ts","./src/wave/wavegroup.ts"],"version":"5.6.2"}
